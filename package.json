@@ -1,0 +1,13 @@
+{
+  "name": "rfc-0003-note-builder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn an unfinished thought into a clearly labelled discussion note that other people can understand and respond to.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
